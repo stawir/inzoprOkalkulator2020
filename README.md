@@ -1,5 +1,5 @@
 # Kalkulator
 
-To jest prosty projekt kalkulatora
+To jest prosty projekt kalkulator
 
-Robimy go przy okazji nauki gita
+Robimy go przy okazji nauki gita.
