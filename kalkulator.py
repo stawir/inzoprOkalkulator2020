@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def get_info():
     print("witaj, to jest prosty kalkulator")
 
