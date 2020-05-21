@@ -12,4 +12,4 @@ a = int(input())
 b = int(input())
 print(dodaj(a, b))
 
-print('Koniec programu, papa!!')
+print('Koniec programu, papa!! gui')
